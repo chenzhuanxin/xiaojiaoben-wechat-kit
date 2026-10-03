@@ -6,6 +6,21 @@
 
 ---
 
+## 下载
+
+| 想要什么 | 去哪拿 |
+|---|---|
+| 三样一起打包好的（推荐） | [Release v4.86](https://github.com/chenzhuanxin/xiaojiaoben-wechat-kit/releases/tag/v4.86) → 附件 `xiaojiaoben-4.86-green.zip`（18.2 MB，解压即用） |
+| 只要仓库内容 | 直接把本仓库 clone/pull 下来，下面目录结构里全都有 |
+| 只要小脚本本体 | 仓库根目录 `小脚本4.86-绿色版.zip` |
+| 只要手册 | 根目录 `小脚本4.86-完整使用手册.html` |
+| 只要加人节奏工具 | 目录 `微信加人节奏管理/` |
+
+> 附件名是 ASCII（`xiaojiaoben-4.86-green.zip`）——GitHub 的上传服务会剥掉 release 附件名里的中文，
+> 仓库内文件名（`小脚本4.86-绿色版.zip`）是保留中文的，两者是同一个文件。
+
+---
+
 ## 目录结构
 
 ```
