@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="xiaojiaoben-wechat-kit"></p>
+
 # 小脚本 4.86 工具箱 · 完整手册 + 微信加人节奏管理
 
 一个仓库装三样东西：**小脚本 4.86 绿色版**、**938 条命令的完整离线手册**、**一套只排期不动手的微信加人节奏管理工具**。
